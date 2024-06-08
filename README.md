@@ -1,0 +1,1 @@
+# Implementasi-Regresi-Linear-dan-Pangkat-Sederhana
